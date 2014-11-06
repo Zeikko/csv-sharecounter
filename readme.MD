@@ -4,7 +4,9 @@ This simple node scripts reads a file called urls.csv and creates a list of the 
 
 ## Usage
 
-- install node
+- install node (http://nodejs.org/download/)
+- register to sharedcount to get an API key (https://admin.sharedcount.com/admin/signup.php)
+- add your api key to index.js line 8
 - create your own urls.csv and overwrite the existing urls.csv with the urls in a column called url
 - run the following commands
 	npm install
