@@ -9,6 +9,9 @@ This simple node scripts reads a file called urls.csv and creates a list of the 
 - add your api key to index.js line 8
 - create your own urls.csv and overwrite the existing urls.csv with the urls in a column called url
 - run the following commands
-	npm install
-	node index.js
+ 
+    `npm install`
+
+    `node index.js`
+
 - enjoy the results in shares.csv
